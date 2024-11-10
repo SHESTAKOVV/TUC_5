@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibraryTests\\MathTaskClassLibraryTests.csproj": {}
+  },
+  "projects": {
+    "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibraryTests\\MathTaskClassLibraryTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibraryTests\\MathTaskClassLibraryTests.csproj",
+        "projectName": "MathTaskClassLibraryTests",
+        "projectPath": "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibraryTests\\MathTaskClassLibraryTests.csproj",
+        "packagesPath": "C:\\Users\\hizay\\.nuget\\packages\\",
+        "outputPath": "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibraryTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hizay\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibrary\\MathTaskClassLibrary.csproj": {
+                "projectPath": "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibrary\\MathTaskClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.8.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.14.0, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.9.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibrary\\MathTaskClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibrary\\MathTaskClassLibrary.csproj",
+        "projectName": "MathTaskClassLibrary",
+        "projectPath": "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibrary\\MathTaskClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\hizay\\.nuget\\packages\\",
+        "outputPath": "E:\\КАЧАЛКА\\JetBrains Rider 2024.1.6\\Project\\MathTaskClassLibrary\\MathTaskClassLibrary\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hizay\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

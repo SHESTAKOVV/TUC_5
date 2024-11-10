@@ -1,0 +1,11 @@
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\net8.0\MathTaskClassLibrary.deps.json
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\net8.0\MathTaskClassLibrary.dll
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\bin\Debug\net8.0\MathTaskClassLibrary.pdb
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net8.0\MathTaskClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net8.0\MathTaskClassLibrary.AssemblyInfoInputs.cache
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net8.0\MathTaskClassLibrary.AssemblyInfo.cs
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net8.0\MathTaskClassLibrary.csproj.CoreCompileInputs.cache
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net8.0\MathTaskClassLibrary.dll
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net8.0\refint\MathTaskClassLibrary.dll
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net8.0\MathTaskClassLibrary.pdb
+E:\КАЧАЛКА\JetBrains Rider 2024.1.6\Project\MathTaskClassLibrary\MathTaskClassLibrary\obj\Debug\net8.0\ref\MathTaskClassLibrary.dll
